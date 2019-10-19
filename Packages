@@ -14,3 +14,20 @@ Author: FutureFlash <typicaltechtuber@gmail.com>
 Icon: file:///Library/Themes/Cydia12.theme/IconBundles/com.saurik.Cydia@2x.png
 Name: iOS 12 Cydia Icon
 
+Package: me.nepeta.unsub
+Version: 0.1.9
+Architecture: iphoneos-arm
+Maintainer: FutureFlash
+Installed-Size: 624
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
+Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12
+Filename: ./debs/me.nepeta.unsub_0.1.9.deb
+Size: 41616
+MD5sum: c44d65fac2b9c14837332e12a26675ab
+SHA1: f80870dc0b0bb6025f737bcb7962c1fcf280d558
+SHA256: 164eaff5e48bd1c90f259f9bfa3c5c98f30494a65b9a4ddb4587789e8aa9366f
+Section: Tweaks
+Description: Disable Cydia Substrate and/or Substitute in chosen apps.
+Author: Nepeta
+Name: UnSub
+
