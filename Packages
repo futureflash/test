@@ -31,6 +31,22 @@ Description: Audio visualizer for iOS
 Author: c0ldra1n & Nepeta
 Name: Mitsuha Infinity
 
+Package: me.nepeta.mitsuhainfinity-lockscreen
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Nepeta
+Installed-Size: 140
+Depends: mobilesubstrate, me.nepeta.mitsuhainfinity
+Filename: ./debs/me.nepeta.mitsuhainfinity-lockscreen_0.1.0.deb
+Size: 4904
+MD5sum: ec6f4c4bfe1a048ef5408e37736a3f48
+SHA1: 3b59e1118654d47a16502ecacd5f5df1671b34d6
+SHA256: 31650b44ce787c93e46c219d3b0cf130c301ffe4e38578db3cc77dd6f21cd285
+Section: Tweaks
+Description: Audio visualizer for the lock screen
+Author: Nepeta
+Name: Mitsuha Infinity - Lock Screen
+
 Package: me.nepeta.unsub
 Version: 0.1.9
 Architecture: iphoneos-arm
