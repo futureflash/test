@@ -14,6 +14,23 @@ Author: FutureFlash <typicaltechtuber@gmail.com>
 Icon: file:///Library/Themes/Cydia12.theme/IconBundles/com.saurik.Cydia@2x.png
 Name: iOS 12 Cydia Icon
 
+Package: me.nepeta.mitsuhainfinity
+Version: 0.1.7-2
+Architecture: iphoneos-arm
+Maintainer: Nepeta
+Installed-Size: 896
+Depends: mobilesubstrate, me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3), io.ominousness.ass, ws.hbang.common (>= 1.11), me.nepeta.libmitsuha (>= 0.1.9), me.nepeta.libnepeta, firmware (>=11.0)
+Conflicts: io.c0ldra1n.mitsuha, io.c0ldra1n.mitsuha-beta, io.ominousness.mitsuhaxi
+Filename: ./debs/me.nepeta.mitsuhainfinity_0.1.7-2.deb
+Size: 46056
+MD5sum: 93000849e8e02aeb5177d9de97371540
+SHA1: d68f791b4531960142ab8388d78993a42b75475d
+SHA256: 3e253a274c719b7ac671976b323447a01e8627cb8ebaf3cd9a39e62bce82b2c9
+Section: Tweaks
+Description: Audio visualizer for iOS
+Author: c0ldra1n & Nepeta
+Name: Mitsuha Infinity
+
 Package: me.nepeta.unsub
 Version: 0.1.9
 Architecture: iphoneos-arm
